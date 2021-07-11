@@ -1,1 +1,1 @@
-# kubernetes-class
+# kubernetes-class-excercise-codes
